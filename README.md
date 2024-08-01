@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ML & AI**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rug0.onrender.com/](https://portfolio-rug0.onrender.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-rug0.onrender.com/)
 
 - 📫 How to reach me **anair56@uic.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P5R0zFP_CFkrG5BBxA_LLhxEzchu8V_N/view?usp=sharing](https://drive.google.com/file/d/1P5R0zFP_CFkrG5BBxA_LLhxEzchu8V_N/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://shorturl.at/T8xpK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
