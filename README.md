@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil S Nair</h1>
-<h3 align="center">I'm a passionate Software Engineer with a love for building web applications and exploring new technologies. Born and raised in India, I'm currently pursuing a master's in Computer Science at the University of Illinois Chicago (UIC). Outside the digital realm, I'm either jamming on my guitar, engaging in tactical mayhem in Rainbow Six Siege (I like my peace with a side of chaos), or striving to balance cricket and gym sessions as a wannabe fitness guru. Here's to mixing passion with a dash of fun!</h3>
+<h3 align="center">I'm a passionate Software Engineer with a love for building web applications and exploring new technologies. Born and raised in India, I'm currently pursuing a master's in Computer Science at the University of Illinois Chicago (UIC). Outside the digital realm, I'm either jamming on my guitar, engaging in tactical mayhem in Rainbow Six Siege (I like my peace with a side of chaos), or striving to balance cricket and gym sessions as a wannabe fitness guru. Here's to mixing passion with a dash of fun!.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ML & AI**
 
