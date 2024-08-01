@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil S Nair</h1>
-<h3 align="center">I'm a passionate Software Engineer with a love for building web applications and exploring new technologies. Born and raised in India, I'm currently pursuing a master's in Computer Science at the University of Illinois Chicago (UIC). Outside the digital realm, I'm either jamming on my guitar, engaging in tactical mayhem in Rainbow Six Siege (I like my peace with a side of chaos), or striving to balance cricket and gym sessions as a wannabe fitness guru. Here's to mixing passion with a dash of fun!.</h3>
+<h3 align="center">I'm a passionate Software Engineer with a love for building web applications and exploring new technologies. Born and raised in India, I'm currently pursuing a master's in Computer Science at the University of Illinois Chicago (UIC). Outside the digital realm, I'm either jamming on my guitar, engaging in tactical mayhem in Rainbow Six Siege (I like my peace with a side of chaos), or striving to balance cricket and gym sessions as a wannabe fitness guru. Here's to mixing passion with a dash of fun!</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ML & AI**
 
@@ -24,5 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akhilmw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akhilmw" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilmw&show_icons=true&locale=en&layout=compact" alt="akhilmw" /></p>
