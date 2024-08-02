@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anair56@uic.edu**
 
-- 📄 Know about my experiences [My Resume](https://shorturl.at/T8xpK)
+- 📄 Know about my experiences [My Resume](https://shorturl.at/l2ZMX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
